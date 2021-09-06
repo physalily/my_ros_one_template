@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<package format="2">
+	<name>my_ros_one_template</name>
+	<version>0.0.0</version>
+	<description>template package for ros1</description>
+	<maintainer email="physalily@gmail.com">physalily</maintainer>
+
+	<license>TO DO</license>
+</package>
